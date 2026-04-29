@@ -84,15 +84,3 @@ FleetClok is a production-ready workforce management app built for a trucking/fl
 - Session tokens prevent concurrent logins across multiple devices
 
 ---
-
-## Screenshots
-
-> *Coming soon — add your screenshots here*
-
----
-
-## Contact
-
-**Samreen Gill**
-📧 samreengill88@gmail.com
-🔗 [LinkedIn](#)
