@@ -1,6 +1,6 @@
 # FleetClok 🚛
 
-> A full-stack mobile app for managing field employees — built with React Native, Expo, and Supabase.
+> A full-stack mobile app for managing employees — built with React Native, Expo, and Supabase.
 
 📱 **[Watch Demo](https://youtu.be/7G-LxvrmjbU)** &nbsp;·&nbsp; 🔒 Source code is private
 
