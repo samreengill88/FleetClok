@@ -2,7 +2,7 @@
 
 > A full-stack mobile app for managing field employees — built with React Native, Expo, and Supabase.
 
-📱 Demo Video 🔒 Source code is private
+📱 **[Watch Demo](https://youtu.be/7G-LxvrmjbU)** &nbsp;·&nbsp; 🔒 Source code is private
 
 ---
 
